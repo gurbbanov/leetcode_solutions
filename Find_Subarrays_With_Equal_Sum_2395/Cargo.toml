@@ -1,0 +1,6 @@
+[package]
+name = "Find_Subarrays_With_Equal_Sum_2395"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

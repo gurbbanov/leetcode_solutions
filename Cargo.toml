@@ -1,4 +1,4 @@
 [workspace]
-members = []
+members = ["Find_Subarrays_With_Equal_Sum_2395"]
 
 resolve = "2"
