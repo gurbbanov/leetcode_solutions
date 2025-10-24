@@ -1,0 +1,6 @@
+[package]
+name = "Cells_with_Odd_Values_in_a_Matrix_1252"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
