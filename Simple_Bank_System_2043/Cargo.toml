@@ -1,0 +1,6 @@
+[package]
+name = "Simple_Bank_System_2043"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
