@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "Find_Subarrays_With_Equal_Sum_2395"
 version = "0.1.0"
+
+[[package]]
+name = "Shuffle_String_1528"
+version = "0.1.0"
