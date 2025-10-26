@@ -1,0 +1,6 @@
+[package]
+name = "Find_Common_Characters_1002"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
