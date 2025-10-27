@@ -1,0 +1,6 @@
+[package]
+name = "Number_of_Laser_Beams_in_a_Bank_2125"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
