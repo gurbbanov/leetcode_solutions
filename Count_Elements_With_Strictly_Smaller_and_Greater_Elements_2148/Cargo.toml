@@ -1,0 +1,6 @@
+[package]
+name = "Count_Elements_With_Strictly_Smaller_and_Greater_Elements_2148"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
