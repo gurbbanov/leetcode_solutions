@@ -1,0 +1,6 @@
+[package]
+name = "Append_Characters_to_String_to_Make_Subsequence_2486"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
