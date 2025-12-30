@@ -1,0 +1,6 @@
+[package]
+name = "Find_the_Pivot_Integer_2485"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
