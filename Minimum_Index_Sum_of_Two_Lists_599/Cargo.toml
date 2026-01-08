@@ -1,0 +1,6 @@
+[package]
+name = "Minimum_Index_Sum_of_Two_Lists_599"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
