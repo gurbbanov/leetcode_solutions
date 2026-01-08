@@ -1,0 +1,6 @@
+[package]
+name = "Find_Valid_Pair_of_Adjacent_Digits_in_String_3438"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
