@@ -1,0 +1,6 @@
+[package]
+name = "Intersection_of_Multiple_Arrays_2248"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
