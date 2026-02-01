@@ -1,0 +1,6 @@
+[package]
+name = "Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I_3010"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
