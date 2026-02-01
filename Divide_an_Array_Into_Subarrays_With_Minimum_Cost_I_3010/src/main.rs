@@ -25,4 +25,41 @@ impl Solution {
 
         result
     }
+
+    //SECOND SOLUTION
+    pub fn minimum_cost_1(nums: Vec<i32>) -> i32 {
+        if nums.len() == 3 {
+            return nums.iter().sum::<i32>();
+        }
+
+        let mut ind = 1;
+        let mut mn = i32::MAX;
+        let mut mn_ind = 1;
+        let mut prev_mn = i32::MAX;
+
+        while ind < nums.len() {
+            if nums[ind] < mn {
+                mn = nums[ind];
+                mn_ind = ind;
+            }
+
+            ind += 1;
+        }
+
+        ind = 1;
+        while ind < nums.len() {
+            if ind == mn_ind {
+                ind += 1;
+                continue;
+            }
+
+            if nums[ind] < prev_mn {
+                prev_mn = nums[ind];
+            }
+
+            ind += 1;
+        }
+
+        nums[0] + mn + prev_mn
+    }
 }
